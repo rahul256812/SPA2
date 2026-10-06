@@ -1,8 +1,7 @@
 # 3-Minute Demonstration Script: From Voice to Text and Back
 **Student Name:** Student Name  
 **Registration Number:** RegNo  
-**Course & Activity:** 21CSE453T Speech Recognition — FT-3 Activity (Unit 3)  
-**Faculty:** Dr. Akella S Narasimha Raju (103585)  
+**Activity:** End-to-End ASR & TTS Pipeline Analysis
 
 ---
 
@@ -11,7 +10,7 @@
 ### **[0:00 – 0:30] Introduction & Disfluent Audio Demonstration**
 - **Action:** Open Colab / screen share. Play `RegNo_disfluent_speech.wav`.
 - **Spoken Script:**
-  > *"Good morning, sir. In this FT-3 activity, I investigate how severe speech disruptions—specifically stuttering and articulatory blocks—propagate through an end-to-end ASR and TTS pipeline.*  
+  > *"Good morning, sir. In this ASR & TTS activity, I investigate how severe speech disruptions—specifically stuttering and articulatory blocks—propagate through an end-to-end ASR and TTS pipeline.*  
   > *First, let us listen to the original 15.52-second disfluent recording.*  
   > *[Play audio clip]*  
   > *Notice that this recording contains five distinct clinical disruptions: monosyllabic repetition at 'I... I... I...', syllable stuttering at 'm... m... market', an unvoiced fricative prolongation on 'sssssunny', followed by an intense 1.8-second articulatory silent block, and another prolongation on 'ssssome'.*  

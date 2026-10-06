@@ -1,9 +1,6 @@
-# 21CSE453T Speech Recognition — FT-3 Activity (Unit 3)
+# Speech Recognition: Disfluent ASR and TTS Pipeline
 ## From Voice to Text and Back: Complete Understanding of ASR and TTS
 
-**Course:** 21CSE453T Speech Recognition  
-**Faculty:** Dr. Akella S Narasimha Raju (103585)  
-**Academic Year:** AY 2026-27 ODD  
 
 ---
 
