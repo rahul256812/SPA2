@@ -11,7 +11,7 @@
 - **Spoken Script:**
   > *"Good morning. In this activity, I investigate how severe speech disruptions—specifically vocal blocks, repetitions, and sound prolongations—propagate through an end-to-end ASR and TTS pipeline.*  
   > *First, let us listen to the original 29.20-second disfluent recording.*  
-  > *[Play audio clip]*  
+  > *[Play disfluent_speech.wav]*  
   > *This recording contains six distinct disruption events: an initial articulatory block prior to speech onset, a pronoun false start repetition at 'I... I am', mid-phrase silent blocks, an alveolar fricative prolongation on 'ssssskills', and a post-lexical hesitation.*  
   > *We established two ground truths: a verbatim transcript containing all acoustic repetitions and prolongations, and a clean transcript reflecting the speaker's intended semantic message."*
 

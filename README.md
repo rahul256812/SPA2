@@ -10,7 +10,7 @@ $$\text{Speech} \xrightarrow{\text{Framing / STFT}} \text{Log-Mel Spectrogram} \
 
 ### Project Repository Contents
 
-- **`RegNo_Name_FT3.ipynb`**: Complete end-to-end executable Colab notebook implementing all 15 activity steps on your recorded audio (`speech1.m4a`).
+- **`RegNo_Name_FT3.ipynb`**: Complete end-to-end executable Colab notebook implementing all 15 activity steps on your recorded audio (`disfluent_speech.wav`).
 - **`RegNo_Name_FT3_Report.pdf`**: Formatted 2-page mini-report covering objectives, acoustic analysis, CTC mechanics, WER tables, and TTS round-trip.
 - **`disfluent_speech.wav`**: 16 kHz Mono WAV audio file (29.20 s) containing natural speech disruptions (vocal blocks, repetitions, prolongations, and hesitations).
 - **`TTS_output.wav`**: 16 kHz Mono WAV audio file (19.28 s) synthesized from the cleaned ASR output.
