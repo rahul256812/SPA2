@@ -1,12 +1,4 @@
-# Temporary python cache & build scripts
+.DS_Store
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-create_generic_pdf.py
-create_notebook.py
-create_pdf_report.py
-generate_all_diagrams.py
-generate_disfluent_audio.py
-generate_tts_output.py
-make_18sec_clip.py
-plot_audio_features.py
